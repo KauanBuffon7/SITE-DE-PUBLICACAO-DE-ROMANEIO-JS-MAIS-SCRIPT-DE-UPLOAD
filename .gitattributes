@@ -1,2 +1,14 @@
-# Auto detect text files and perform LF normalization
+# Define o comportamento padrão para todos os arquivos de texto
+# O Git tentará detectar se um arquivo é texto e normalizará
+# as quebras de linha para LF no repositório.
+* text=auto eol=lf
+
+# Adicione exceções se necessário, por exemplo, para arquivos
+# que precisam ser executados no Windows e exigem CRLF.
+*.bat    eol=crlf
+*.cmd    eol=crlf
+
+# Especifique arquivos binários para que o Git não os modifique
+*.png    binary
+*.jpg    binary
 * text=auto

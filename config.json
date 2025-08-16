@@ -1,0 +1,83 @@
+{
+  "clientes": [
+    {
+      "uid": "PbbeFP5yathFUkg9vycJj4uQ3h92",
+      "nome": "PAULO VINICIUS VP",
+      "pasta_local": "C:\\Users\\Micro\\Documents\\Clientes de Mdc\\PAULO VINICIUS VP"
+    }
+    ,
+    {
+      "uid": "YsgLa8m90WXVujeNPIAiLr1kzkR2",
+      "nome": "Jefferson",
+      "pasta_local": "C:\\Users\\Micro\\Documents\\Clientes de Mdc\\Jefferson"
+    }
+    ,
+    {
+      "uid": "3LnBUIK74OPt2Yp5IjEyhOS4NdX2",
+      "nome": "IGOR SIQUEIRA",
+      "pasta_local": "C:\\Users\\Micro\\Documents\\Clientes de Mdc\\IGOR  IGO"
+    }
+    ,
+    {
+      "uid": "oH5aH0NgQlZOuzp4u0leNE53pCA3",
+      "nome": "WENDEL LOPES",
+      "pasta_local": "C:\\Users\\Micro\\Documents\\Clientes de Atm\\WENDEL WS"
+    }
+    ,
+    {
+      "uid": "TozcHcQ2tfUE4p0CrfA5NYw8PQn1",
+      "nome": "CAMPEIRO SUPERMERCADO LTDA",
+      "pasta_local": "C:\\Users\\Micro\\Documents\\Clientes de Atm\\CAMPEIRO  C"
+    }
+    ,
+    {
+      "uid": "NdbVrtdmA4dNzntN6ycE7AcRbVJ2",
+      "nome": "CHARLES",
+      "pasta_local": "C:\\Users\\Micro\\Documents\\Clientes de Bn\\CHARLES CH"
+    }
+    ,
+    {
+      "uid": "wgA9x4hSYbSmIvTPsAWYsebWJZO2",
+      "nome": "IVONEY",
+      "pasta_local": "C:\\Users\\Micro\\Documents\\Clientes de Mdc\\IVONEY T"
+    }
+    ,
+    {
+      "uid": "phldJs10zwQncPtn7Pud4dBakbn1",
+      "nome": "ALAN AB",
+      "pasta_local": "C:\\Users\\Micro\\Documents\\Clientes de Bn\\ALAN AB"
+    }
+    ,
+    {
+      "uid": "Cw1VXpYMDSRZ8IRv9BHYNotctSC3",
+      "nome": "GABRIEL HAUANER",
+      "pasta_local": "C:\\Users\\Micro\\Documents\\Clientes de Mdc\\GABRIEL HANAUER  PG"
+    }
+    ,
+    {
+      "uid": "TrTKAVp0UcN1QFksk0yRJwHWw1y1",
+      "nome": "ISAC",
+      "pasta_local": "C:\\Users\\Micro\\Documents\\Clientes de Mdc\\ISAC GI"
+    }
+    ,
+    {
+      "uid": "iAu2wC1IUMOzfBrjwxXNFjU2wL52",
+      "nome": "NONATO",
+      "pasta_local": "C:\\Users\\Micro\\Documents\\Clientes de Bn\\NONATO RN"
+    }
+    ,
+    {
+      "uid": "1uMvjXLGAGMe51CrTfzMDE2AeuV2",
+      "nome": "VALDIR",
+      "pasta_local": "C:\\Users\\Micro\\Documents\\Clientes de Bn\\ESQUINA CARNES VO"
+    }
+    ,
+    {
+      "uid": "IWfutYHs8bgY8QqsF7cPGUgE6eF2",
+      "nome": "KASSIO DUARTE",
+      "pasta_local": "C:\\Users\\Micro\\Documents\\Clientes de Mdc\\KASSIO FORTALEZA KD"
+    }
+
+
+  ]
+}
